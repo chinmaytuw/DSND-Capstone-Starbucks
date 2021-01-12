@@ -18,20 +18,13 @@
 
 # Files:
 
-   - data
-      | - portfolio.json: json file with portfolio data
-      | |- master.html  # main page of web app
-      | |- go.html  # classification result page of web app
-      |- run.py  # Flask file that runs app
-
       - data
-      |- disaster_categories.csv  # data to process 
-      |- disaster_messages.csv  # data to process
-      |- process_data.py
-      |- InsertDatabaseName.db   # database to save clean data to
+      |- portfolio.json  # json with offer data
+      |- profile.json    # json with user data
+      |- transcript.json.zip # zip with data for transactions
+      
+      - images # images used in the notebook
 
-      - models
-      |- train_classifier.py
-      |- classifier.pkl  # saved model 
+      - Starbucks_Capstone_notebook.ipynb # Notebook with all the code and analysis.
 
-    - README.md
+      - README.md
