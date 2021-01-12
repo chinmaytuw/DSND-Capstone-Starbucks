@@ -28,3 +28,7 @@
       - Starbucks_Capstone_notebook.ipynb # Notebook with all the code and analysis.
 
       - README.md
+
+# Summary:
+- The final recall score for the model was 82%. 
+- [Here](https://chinmaytuw.medium.com/udacity-data-science-nanodegreee-capstone-starbucks-beb343e05ae9) is a Medium blogpost with detailed analysis.
